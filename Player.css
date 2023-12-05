@@ -1,0 +1,17 @@
+/* src/styles/Player.css */
+.player-container {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .player-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Add additional styles as needed for the Player component */
+  
